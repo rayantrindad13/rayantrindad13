@@ -11,9 +11,8 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 🚀 **Cursos e Bootcamps**
-  - 📚 Santander Coders 2024 – Trilha Backend  
-  - 📚 Santander 2025 - Back-End com Python  
-  - 📚 Ri Happy - Front-end do Zero  
+  - 📚 Santander 2025 - Back-End com Python (Em curso)
+  - 📚 Ri Happy - Front-end do Zero (Em curso)  
   - 📚 Bootcamp de Cibersegurança #2 – Santander & DIO  
 
 🎓 **Formação Acadêmica**
